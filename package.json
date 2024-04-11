@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "uuid": "^9.0.1"
+  },
+  "type": "module"
+}
